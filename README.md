@@ -2,7 +2,6 @@
 - 👀 I know bit of python .
 - 🌱 I’m currently learning everything 🤣.
 - 💞️ I’m love reading books📖 and listening song🎧.
-- 📫 my contact : 9372398391
 - Email : aakashchaurasiya033@gmail.com
 
 <!---
