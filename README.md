@@ -1,4 +1,4 @@
-##Hi, I'm Akash
+## Hi, I'm Akash
 
 - 👀 I know bit of python .
 - 🌱 I’m currently learning everything 🤣.
