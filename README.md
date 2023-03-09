@@ -1,11 +1,11 @@
+<img align="right" alt="Coding" id="gif" width="380" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" />
+
 ## Hi, I'm Akash
 
 ### A passionate Full-Stack developer.
 - 💻 I love coding and designing web applications
 * 🌱 I’m currently learning Advance SEO and Ranking skills.
 + 👩‍🎨 You can hire me for your next project.
-<img align="right" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="400" height="220">
-
 
 
 ###Languages and Tools I use:
