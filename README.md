@@ -1,7 +1,5 @@
 <img align="right" alt="Coding" id="gif" width="380" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" />
-
-<h4>Hello, I am</h4>
-<h1>Aakash</h1>
+<h1>Hi, I'm Aakash</h1>
 
 ### A passionate Full-Stack developer.
 - 💻 I love coding and designing web applications
