@@ -2,8 +2,8 @@
 <h1>Hi, I'm Aakash</h1>
 
 ### A passionate Full-Stack developer.
-- 💻 I love coding and designing web applications
-- 🌱 I’m currently learning Advance SEO and Ranking skills.
+- 💻 I love coding and designing web applications.
+- 🌱 Exploring different aspects of web development and Ranking skills.
 - 👩‍🎨 You can hire me for your next project.
 
 
