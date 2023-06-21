@@ -2,9 +2,9 @@
 <h1>Hi, I'm Aakash</h1>
 
 ### A passionate Full-Stack developer.
-- 💻 I love coding and designing web applications.
+- 💻 DevOps and Fullstack JS Developer.
 - 🌱 Exploring different aspects of web development and Ranking skills.
-- 👩‍🎨 You can hire me for your next project.
+- 👩‍🎨 ..
 
 # 💻 Tech Stack:
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
